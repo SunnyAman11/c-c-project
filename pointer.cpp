@@ -12,3 +12,6 @@ using namespace std;
 
     return 0;
 }
+/* the output is 
+6
+6 */
